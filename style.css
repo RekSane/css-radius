@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    box-sizing: border-box;
+}
+
+div {
+    border-radius: 50%;
+    border: 0px ;
+    padding: 30px;
+}
+
+#radius {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    margin: 40px auto;
+        }
+        
+.cr1 {
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+}
+
+.cr2 {
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+}
+
+.cr3 {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+}
+
+.cr4 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+}
+
+.cr5 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+}
